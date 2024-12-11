@@ -1,0 +1,15 @@
+{
+    "name": "rober/salon-belleza",
+    "autoload": {
+        "psr-4": {
+            "Rober\\SalonBelleza\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roberto",
+            "email": "robertoz1777@gmail.com"
+        }
+    ],
+    "require": {}
+}
