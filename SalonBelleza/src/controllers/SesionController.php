@@ -98,7 +98,6 @@ class SesionController {
            }
      }
     
-        // Cargar la vista de registro
         require_once __DIR__ . '/../views/clientes/registrar.php';
     }
     
